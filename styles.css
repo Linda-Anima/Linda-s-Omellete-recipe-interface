@@ -1,0 +1,150 @@
+
+
+body {
+  display: block;
+  margin: 8px;
+}
+
+.container{
+  background-color: hsl(30, 54%, 90%);
+  width: 700px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 1000px;
+  padding-top: 50px;
+ 
+}
+
+.card{
+  background-color: hsl(330, 100%, 98%);
+  width: 380px;
+  margin: auto;
+  height: 930px;
+  border-radius: 15px;
+
+}
+
+.img{
+  margin-top: 13px;
+  border-radius: 10px;
+}
+
+.items{
+  padding-left: 15px;
+  margin-right: 15px;
+}
+
+p{
+  font-size: 9px;
+  font-family: "Outfit";
+  width: 380px;
+  color: hsl(30, 10%, 34%);
+}
+
+ td{
+  font-size: 9px;
+  font-family: "Outfit";
+  width: 380px;
+  color: hsl(30, 10%, 34%);
+}
+
+.Instruction ol li{
+  font-size: 9px;
+  font-family: "Outfit";
+  width: 340px;
+  color: hsl(30, 10%, 34%);
+
+}
+
+.Simple h1{
+  color: hsl(24, 5%, 18%);
+  font-family: "Young Serif";
+  font-size: 18px;
+}
+
+.Prep h3{
+  color: hsl(332, 51%, 32%);
+  font-family: "Young Serif";
+  font-size: 10px;
+  padding-top: 9px;
+}
+
+.P-list{
+  padding-bottom: 1px;
+}
+
+.Prep{
+  background-color: #fae7f369;
+  width: 340px;
+}
+
+.Prep ul li{
+  font-size: 9px;
+  font-family: "Outfit";
+  width: 340px;
+  color: hsl(30, 10%, 34%);
+
+}
+
+.Ingre h3{
+  color: hsl(14, 45%, 36%);
+  font-family: "Young Serif";
+  font-size: 14px;
+}
+
+.Ingre ul li{
+  font-size: 9px;
+  font-family: "Outfit";
+  width: 340px;
+  color: hsl(30, 10%, 34%);
+
+}
+
+.Instruction h2{
+  color: hsl(14, 45%, 36%);
+  font-family: "Young Serif";
+  font-size: 14px;
+}
+
+.last h2{
+  color: hsl(14, 45%, 36%);
+  margin-bottom: 5px;
+  text-align: left;
+  font-family: "Young Serif";
+  font-size: 14px;
+}
+
+.Nutri ul li{
+  color: hsl(14, 45%, 36%);
+}
+
+ul li{
+  margin-left: -25px;
+}
+
+ol li{
+  margin-left: -25px;
+  margin-bottom: 10px;
+}
+
+.tab {
+  position: relative;
+  left: 220px;
+  bottom: 110px;
+  margin-top: 1px;
+}
+
+.tab p{
+  color: hsl(14, 45%, 36%);
+  font-family: "Outfit";
+  font-weight: 950;
+  margin-bottom: 18px;
+}
+
+
+/* .next{
+  position: relative;
+  right: 350px;
+  bottom: 837px;
+} */
